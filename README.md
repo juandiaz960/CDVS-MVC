@@ -3,6 +3,7 @@
 ### Integrantes
 - Angi Jimenez
 - Juan Diaz
+
 ## Parte 1 - Jugando a ser un cliente HTTP
 ### 1. Utilizando Telnet en www.escuelaing.edu.co pidiendo el recurso sssss/abc.html
 ![Punto1-Parte1](https://i.imgur.com/OJfIBpg.png)
@@ -25,6 +26,11 @@ Existen varios tipos de error:
 **¿Qué se obtiene como resultado?**
 
 Un texto largo, que cuenta una historia. Seguramente es el contenido de la pagina web en su index.
+
+## Parte 2 - Haciendo una aplicación Web dinámica a bajo nivel.
+
+La aplicacion web funcionando
+![Parte2](https://i.imgur.com/8sqUt5Y.png)
 
 
 
